@@ -1,0 +1,133 @@
+.playlist .covers img{
+    width: 100px;
+    height: 100px;
+}
+
+#title{
+    text-overflow: clip;
+    float: left;
+    padding-top:25px;
+    font-variant: small-caps;
+    color: green;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    list-style-type: none;
+    line-height: 100px;
+    padding-right: 20px;
+}
+
+#artist{
+    text-overflow: clip;
+    float: left;
+    padding-top: 25px;
+    font-weight: bold;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    list-style-type: none;
+    line-height: 100px;
+    padding-right: 20px;
+}
+
+#album{
+    float: left;
+    padding-top: 25px;
+    font-style:italic;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    list-style-type: none;
+    line-height: 100px;
+    padding-right: 20px;
+}
+
+#covers{
+    float: left;
+    padding-top: 25px;
+
+    height: 100px;
+    width: 100px;
+    font-size: 14pt;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+#date{
+    float: left;
+    padding-top: 25px;
+    font-size: 75%;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    list-style-type: none;
+    line-height: 100px;
+    padding-right: 20px;
+}
+
+#genres{
+    float: left;
+    padding-top: 25px;
+    font-size: 70%;
+    list-style-type: square;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    line-height: 100px;
+    padding-right: 20px;
+}
+
+#sites{
+    float: left;
+    padding-top: 25px;
+    font-size: 75%;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    list-style-type: none;
+    line-height: 100px;
+    padding-right: 20px;
+}
+
+#page{
+    float: left;
+    padding-top: 25px;
+
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+}
+
+ul li{
+    display: block;
+    height: 100px;
+    width: auto;
+    font-size: 14pt;
+    line-height: 100px;
+}
+
+#playlist{
+    width: 2000px;
+    margin:0 auto;
+    display: block;
+}
+
+
+ p{
+     clear: both;
+     font-size: 12pt;
+     font-style: italic;
+     display: block;
+     text-align: center;
+ }
+
+ img{
+    height: 100px;
+    width: 100px;
+ }

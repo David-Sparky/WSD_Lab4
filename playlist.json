@@ -1,0 +1,40 @@
+{
+"PLAYLIST": [
+  {
+    "SONG": "Infinity",
+    "ARTIST": "One Direction",
+    "ALBUM": "From the AM",
+    "DATE": "2015",
+    "GENRE": "Pop",
+    "SITE":"http://onedirectionmusic.com",
+    "COVER":"Infinity.jpg"
+    },
+  {
+    "SONG": "John Cougar, John Deere, John 3:16",
+    "ARTIST": "Keith Urban",
+    "ALBUM": "John Cougar, John Deere, John 3:16",
+    "DATE": "2015",
+    "GENRE": "Country",
+    "SITE": "http://www.keithurban.net",
+    "COVER": "JCJDJ316.jpg"
+    },
+ {
+    "SONG": "Barefoot Blue Jean Night",
+    "ARTIST": "Jake Owen",
+    "ALBUM": "From the AM",
+    "DATE": "2011",
+    "GENRE": "Country",
+    "SITE": "http://www.jakeowen.net",
+    "COVER": "bfbjn.jpg"
+    },
+  {
+    "SONG": "Firestone",
+    "ARTIST": "Kygo",
+    "ALBUM": "Firestone",
+    "DATE": "2014",
+    "GENRE": "Electronic",
+    "SITE": "http://kygomusic.com",
+    "COVER": "Firestone.jpg"
+    }
+]
+}
